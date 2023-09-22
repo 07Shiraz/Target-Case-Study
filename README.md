@@ -11,3 +11,7 @@ Dataset: https://drive.google.com/drive/folders/1TGEc66YKbD443nslRi1bWgVd238gJCn
 The data is available in 8 CSV files:
 
 customers.csv sellers.csv order_items.csv geolocation.csv payments.csv reviews.csv orders.csv products.csv
+
+##Problem Statement:
+
+Assuming you are a data analyst/ scientist at Target, you have been assigned the task of analyzing the given dataset to extract valuable insights and provide actionable recommendations.
