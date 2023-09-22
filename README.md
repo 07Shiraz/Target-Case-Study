@@ -6,6 +6,7 @@ This particular business case focuses on the operations of Target in Brazil and 
 By analyzing this extensive dataset, it becomes possible to gain valuable insights into Target's operations in Brazil. The information can shed light on various aspects of the business, such as order processing, pricing strategies, payment and shipping efficiency, customer demographics, product characteristics, and customer satisfaction levels.
 
 ## Business Problem
-The data is available in 8 csv files:
+Dataset: https://drive.google.com/drive/folders/1TGEc66YKbD443nslRi1bWgVd238gJCnb
+The data is available in 8 CSV files:
 
 customers.csv sellers.csv order_items.csv geolocation.csv payments.csv reviews.csv orders.csv products.csv
